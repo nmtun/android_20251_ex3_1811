@@ -1,4 +1,4 @@
-package com.example.android_20251_ex3_1811
+package com.example.it4785_android_1811_ex3
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
